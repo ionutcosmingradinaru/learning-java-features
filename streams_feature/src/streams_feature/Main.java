@@ -69,7 +69,6 @@ public class Main {
   }
 }
 
-
 class Person {
 
   public enum Gender {
