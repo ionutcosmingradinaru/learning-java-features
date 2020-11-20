@@ -1,0 +1,2 @@
+module functional.interfaces.feature {
+}

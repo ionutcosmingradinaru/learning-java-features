@@ -1,4 +1,4 @@
-package generics_features;
+package generics_feature;
 
 import java.util.HashMap;
 import java.util.Map;
