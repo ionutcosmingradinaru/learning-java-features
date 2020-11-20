@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/functional_interfaces_feature/functional_interfaces_feature.iml" filepath="$PROJECT_DIR$/functional_interfaces_feature/functional_interfaces_feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics_feature/generics_feature.iml" filepath="$PROJECT_DIR$/generics_feature/generics_feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learning-java-features.iml" filepath="$PROJECT_DIR$/.idea/learning-java-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optional_feature/optional_feature.iml" filepath="$PROJECT_DIR$/optional_feature/optional_feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/records_feature/records_feature.iml" filepath="$PROJECT_DIR$/records_feature/records_feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/sealed_feature/sealed_feature.iml" filepath="$PROJECT_DIR$/sealed_feature/sealed_feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/streams_feature/streams_feature.iml" filepath="$PROJECT_DIR$/streams_feature/streams_feature.iml" />
